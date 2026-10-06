@@ -1,0 +1,6 @@
+
+/task[1-7]/program
+/task[1-7]/program_fsize
+/task[1-7]/*.o
+/task[1-7]/*.bak
+/task3/data.txt
